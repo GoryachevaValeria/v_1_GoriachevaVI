@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Goryacheva-v-1</string>
+    <string name="map">TODO</string>
+    <string name="gps">GPS локатор</string>
+    <string name="map1">TODO</string>
+    <string name="settings">TODO</string>
+    <string name="line1">TODO</string>
+    <string name="lock">TODO</string>
+    <string name="start">start</string>
+    <string name="line2">TODO</string>
+    <string name="account">TODO</string>
+    <string name="city">город</string>
+    <string name="lake">озеро</string>
+    <string name="place">Места</string>
+    <string name="mountain">горы</string>
+    <string name="relax">отдых</string>
+    <string name="fish">рыбалка</string>
+    <string name="waterfall">водопад</string>
+    <string name="block">TODO</string>
+    <string name="pluce">TODO</string>
+    <string name="relaxphoto">TODO</string>
+    <string name="cityphoto">TODO</string>
+    <string name="fishphoto">TODO</string>
+    <string name="mountainphoto">TODO</string>
+    <string name="waterfallphoto">TODO</string>
+    <string name="lakephoto">TODO</string>
+    <string name="map2">TODO</string>
+    <string name="left">TODO</string>
+    <string name="box">TODO</string>
+</resources>
